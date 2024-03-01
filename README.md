@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @nileshset
-- 👀 I’m interested in create new things
+- 👀 I’m interested in create new things and move forward my self.
 - 🌱 I’m  learner
--  📫 free fill with me
+-  📫 free feel with me
 - 😄 Pronouns:he/his
-- ⚡ Fun fact
+- 
 
 <!---
 nileshset/nileshset is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
