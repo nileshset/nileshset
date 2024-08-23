@@ -2,7 +2,7 @@
 - 👀 I’m interested in create new things and move forward my self.
 - 🌱 I’m  learner
 -  📫 free feel with me
-- 😄 Pronouns:he/his
+- 😄 Pronouns:he/his/him
 
 
 <!---
