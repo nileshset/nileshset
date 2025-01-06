@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @nileshset
-- 👀 I’m interested in create new things and move forward my self.
+- 👀 I’m currently pursuing BE from electronic & instruments 
+IET,DAVV
 - 🌱 I’m  learner
 -  📫 free feel with me
 - 😄 Pronouns:he/his/him
