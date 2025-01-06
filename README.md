@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nileshset
-- 👀 I’m currently pursuing BE from electronic & instruments 
+- 👀 I’m currently pursuing BE from electronic & instrumentation 
 IET,DAVV
 - 🌱 I’m  learner
 -  📫 free feel with me
