@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @nileshset
 - 👀 I’m currently pursuing BE from electronic & instrumentation 
 IET,DAVV
+indore
 - 🌱 I’m  learner
 -  📫 free feel with me
 - 😄 Pronouns:he/his/him
