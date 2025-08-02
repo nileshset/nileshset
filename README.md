@@ -1,5 +1,5 @@
-- 👋 Hey there! I’m @nileshset
-- 👀 I’m currently pursuing BE from electronic & instrumentation IET,DAVV indore
+- 👋 Hey there! I’m @nileshsolanki
+- 👀 I’m currently pursuing BE from electronic & instrumentation IET,DAVV indore(2022-2026)
 - 🌱 I’m  learner
 -  📫 free feel with me
 - 😄 Pronouns:he/his/him
