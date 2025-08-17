@@ -1,4 +1,5 @@
-- 👋 Hey there! I’m @nileshsolanki
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/<Your_LeetCode_Username>?ext=lang)- 👋 Hey there! I’m @nileshsolanki
 - 👀 I’m currently pursuing BE from electronic & instrumentation IET,DAVV indore(2022-2026)
 - 🌱 I’m  learner
 -  📫 free feel with me
