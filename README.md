@@ -1,5 +1,4 @@
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/<Your_LeetCode_Username>?ext=lang)- 👋 Hey there! I’m @nileshsolanki
+ 👋 Hey there! I’m @nileshsolanki
 - 👀 I’m currently pursuing BE from electronic & instrumentation IET,DAVV indore(2022-2026)
 - 🌱 I’m  learner
 -  📫 free feel with me
@@ -19,3 +18,4 @@ You can click the Preview link to take a look at your changes.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nileshset&layout=compact&theme=tokyonight)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/nileshfeeling075)
+![LeetCode Stats](https://leetcard.jacoblin.cool/<Your_LeetCode_nileshfeeling075>?ext=lang)
